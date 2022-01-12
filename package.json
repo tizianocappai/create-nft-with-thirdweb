@@ -1,0 +1,26 @@
+{
+  "name": "create-nft-with-thirdweb",
+  "version": "1.0.0",
+  "description": "Create Nft using js &amp; thirdweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tizianocappai/create-nft-with-thirdweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tizianocappai/create-nft-with-thirdweb/issues"
+  },
+  "homepage": "https://github.com/tizianocappai/create-nft-with-thirdweb#readme",
+  "dependencies": {
+    "@3rdweb/sdk": "^1.33.1",
+    "dotenv": "^11.0.0",
+    "ethers": "^5.5.3"
+  }
+}
