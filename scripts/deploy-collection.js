@@ -1,4 +1,4 @@
-import sdk from '../init-sdk.js';
+import sdk from './init-sdk.js';
 import { readFileSync } from 'fs';
 
 import dotenv from 'dotenv';

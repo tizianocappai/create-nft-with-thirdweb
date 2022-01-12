@@ -2,7 +2,6 @@
   "name": "create-nft-with-thirdweb",
   "version": "1.0.0",
   "description": "Create Nft using js &amp; thirdweb",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
